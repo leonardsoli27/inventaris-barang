@@ -188,7 +188,7 @@
 <body oncontextmenu='return false' class='snippet-body'>
     @include('sweetalert::alert')
     <div class="container-fluid px-1 px-md-5 px-lg-1 px-xl-5 py-5 mx-auto">
-        <div class="card card0 border-0">
+        <div class="card card-0 border-0">
             <div class="row d-flex">
                 <div class="col-lg-6">
                     <div class="card1 pb-5">

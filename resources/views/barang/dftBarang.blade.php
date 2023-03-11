@@ -5,10 +5,10 @@
 @section('content')
 
 <style>
-    div.dataTables_wrapper {
+    /* div.dataTables_wrapper {
         width: 980px;
         margin: 0 auto;
-    }
+    } */
 
 </style>
 
